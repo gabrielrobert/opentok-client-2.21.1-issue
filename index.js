@@ -1,3 +1,5 @@
+import { t } from 'testcafe';
+
 fixture`opentok`
     .page('https://opentok.github.io/opentok-web-samples/Basic%20Video%20Chat/');
 
