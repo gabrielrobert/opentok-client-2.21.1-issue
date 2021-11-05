@@ -1,0 +1,22 @@
+{
+  "name": "opentok-client-2.21.1-issue",
+  "version": "1.0.0",
+  "description": "Reproduce ticket #1860021",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrobert/opentok-client-2.21.1-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielrobert/opentok-client-2.21.1-issue/issues"
+  },
+  "homepage": "https://github.com/gabrielrobert/opentok-client-2.21.1-issue#readme",
+  "dependencies": {
+    "testcafe": "^1.17.0"
+  }
+}
